@@ -14,6 +14,8 @@ EFI of GF63 8RC (8th gen), may not work with 9th gen Intel
 -PS2 Trackpad  
 -hiDPI but too big logo  
 -Audio: AppleALC Layout 35 but don't have mic
+# NOTE:  
+-Get Resource at: https://github.com/acidanthera/OcBinaryData and paste to EFI for GUI  
   
 # Need to fix:  
 -I2C Trackpad  
