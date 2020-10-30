@@ -1,4 +1,4 @@
-# MSI_GF63_8RC_EFI_Hackintosh  
+# MSI GF63 8RC EFI for Hackintosh  
 EFI of GF63 8RC (8th gen), may not work with 9th gen Intel  
 -CPU: i7 8750h Coffe Lake  
 -RAM: 16GB SKHynix 2133MHZ  
