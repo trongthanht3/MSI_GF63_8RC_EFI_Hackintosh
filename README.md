@@ -3,7 +3,7 @@ EFI of GF63 8RC (8th gen), may not work with 9th gen Intel
 - CPU: i7 8750h Coffe Lake  
 - RAM: 16GB SKHynix 2133MHZ  
 - SSD: just dont use 981pm/970evo+  
-- Wifi: Intel AR9462 (worked with itlwm and heliport, please disable SIP then install kext to L/E)  
+- Wifi: Intel AR9462 (worked with itlwm and heliport)
 - Bluetooth: Native
 - Trackpad/Keyboard: worked with VooDooPS2, still need fix for I2C, please pull request to help me if you fixed  
 - Keyboard: layout Japan, worked with VoodooPS2  
